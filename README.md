@@ -1,3 +1,3 @@
 # first
 This is my first Git Repository
-Author - Abhishek Kumar
+Author - Abhishek Kumar (student)
